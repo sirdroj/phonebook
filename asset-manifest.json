@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/phonebook/static/css/main.bd2f744f.css",
-    "main.js": "/phonebook/static/js/main.bf304432.js",
+    "main.js": "/phonebook/static/js/main.d28c1e4d.js",
     "static/js/787.0bec1c65.chunk.js": "/phonebook/static/js/787.0bec1c65.chunk.js",
     "static/media/cart.png": "/phonebook/static/media/cart.0edb59010b1db3cbc904.png",
     "index.html": "/phonebook/index.html",
     "main.bd2f744f.css.map": "/phonebook/static/css/main.bd2f744f.css.map",
-    "main.bf304432.js.map": "/phonebook/static/js/main.bf304432.js.map",
+    "main.d28c1e4d.js.map": "/phonebook/static/js/main.d28c1e4d.js.map",
     "787.0bec1c65.chunk.js.map": "/phonebook/static/js/787.0bec1c65.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bd2f744f.css",
-    "static/js/main.bf304432.js"
+    "static/js/main.d28c1e4d.js"
   ]
 }
