@@ -1,0 +1,23 @@
+.CreateContact{
+    padding: 5%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    div{
+        padding: 5%;
+        width: 550px;
+        display: block;
+        // padding: 5px;
+        line-height: 20px;
+        *{
+            font-size: 25px;
+            width: 100%;
+            align-items: center;
+            justify-content: center;
+            margin:5px
+        }
+        button{
+            width:101.7%;
+        }
+    }
+}
