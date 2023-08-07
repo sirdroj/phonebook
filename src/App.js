@@ -53,7 +53,7 @@ const App = () => {
 
   const [login, setlogin] = useState(false);
   const [username, setusername] = useState("");
-  const [pg, setpg] = useState(2);
+  const [pg, setpg] = useState(1);
   function MyComponent(option) {
     let componentToRender;
     // console.log(option)
